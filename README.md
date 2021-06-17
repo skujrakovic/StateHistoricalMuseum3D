@@ -6,7 +6,7 @@ In the *Download* folder you can find the APK file and also the image used for i
 
 Below are some images of the rendered object in Blender:<br>
 
-![image](https://drive.google.com/uc?export=view&id=10IwSFeghRC1YoEHYGgit) remote add origin remotedaMN5r4Tat-G2du)
+![image](https://drive.google.com/uc?export=view&id=10IwSFeghRC1YoEHYGdaMN5r4Tat-G2du)
 
 ![image](https://drive.google.com/uc?export=view&id=1hUF1Ev61_lIbPPAKaROFnvZbzJNKxFgh)
 
